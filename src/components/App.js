@@ -10,6 +10,9 @@ import ForgotPassword from "./ForgotPassword"
 import UpdateProfile from "./UpdateProfile"
 
 function App() {
+  return "hello world"
+}
+/*
   return (
     <Container
       className="d-flex align-items-center justify-content-center"
@@ -31,5 +34,5 @@ function App() {
     </Container>
   )
 }
-
+*/
 export default App
